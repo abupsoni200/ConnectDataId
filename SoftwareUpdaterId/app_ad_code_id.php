@@ -2,8 +2,8 @@
 	"ShowWhichAd":
 		[
 			{
-			"g_ad":"1",
-			"fb_ad":"0"
+			"g_ad":"0",
+			"fb_ad":"1"
 			}
 		]
 	"ad_id":
