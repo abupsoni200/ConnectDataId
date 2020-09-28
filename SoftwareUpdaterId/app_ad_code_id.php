@@ -1,14 +1,9 @@
 {
-	"ShowWhichAd":
+	"ad_id":
 		[
 			{
 			"g_ad":"0",
 			"fb_ad":"1"
-			}
-		]
-	"ad_id":
-		[
-			{
 			"adpub_id":"pub-3940256099942544",
 			"adapp_id":"ca-app-pub-3940256099942544~3347511713",
 			"adappopen_id":"ca-app-pub-3940256099942544/1033173712",
