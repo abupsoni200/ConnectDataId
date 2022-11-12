@@ -1,0 +1,22 @@
+{
+	"ad_id":
+		[
+			{
+			"g_ad":"0",
+			"fb_ad":"1",
+			"adpub_id":"pub-3940256099942544",
+			"adapp_id":"ca-app-pub-3940256099942544~3347511713",
+			"adappopen_id":"/21753324030,22764862903/com.heartbeatapps.auto.network.refresher_AppOpen",
+			"adbanner_id":"/21753324030,22764862903/com.heartbeatapps.auto.network.refresher_Banner",
+			"adbanner_rect_id":"/21753324030,22764862903/com.heartbeatapps.auto.network.refresher_Rectangle",
+			"adinterstial_id":"21753324030,22764862903/com.heartbeatapps.auto.network.refresher_Interstitial",
+			"adnativebanner_id":"/21753324030,22764862903/com.heartbeatapps.auto.network.refresher_Native",
+			"adfbbanner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"adfbinterstial_id":"YOUR_PLACEMENT_ID",
+			"adfbnative_id":"YOUR_PLACEMENT_ID",
+			"adfbnative_banner_id":"YOUR_PLACEMENT_ID",		
+			"adfbrectangle_banner_id":"YOUR_PLACEMENT_ID",
+			"adShow_time_duration":"2"
+			}
+		]
+}
