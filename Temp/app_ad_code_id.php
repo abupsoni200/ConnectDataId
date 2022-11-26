@@ -3,7 +3,7 @@
 		[
 			{
 			"g_ad":"0",
-			"fb_ad":"1",
+			"fb_ad":"0",
 			"adpub_id":"pub-3940256099942544",
 			"adapp_id":"ca-app-pub-3940256099942544~3347511713",
 			"adappopen_id":"ca-app-pub-3940256099942544/1033173712",
@@ -16,7 +16,7 @@
 			"adfbnative_id":"YOUR_PLACEMENT_ID",
 			"adfbnative_banner_id":"YOUR_PLACEMENT_ID",		
 			"adfbrectangle_banner_id":"YOUR_PLACEMENT_ID",
-			"adShow_time_duration":"2"
+			"adShow_time_duration":"25"
 			}
 		]
 }
