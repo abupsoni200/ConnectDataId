@@ -15,7 +15,8 @@
 			"adfbinterstial_id":"YOUR_PLACEMENT_ID",
 			"adfbnative_id":"YOUR_PLACEMENT_ID",
 			"adfbnative_banner_id":"YOUR_PLACEMENT_ID",		
-			"adfbrectangle_banner_id":"YOUR_PLACEMENT_ID"
+			"adfbrectangle_banner_id":"YOUR_PLACEMENT_ID",
+			"adShow_time_duration":"2"
 			}
 		]
 }
